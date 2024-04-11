@@ -48,6 +48,7 @@ function losAngelesTimezone() {
      </div>
      <div class="time">${cityTime.format("h:mm:ss")} <small>${cityTime.format("A")}</small></div>
    </div>
+   <a href="/Users/ibrah/OneDrive/Desktop/HTML/shecodes/world-clock/index.html">All cities</a>
    `;
  }
 
